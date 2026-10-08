@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Mateus 👋
 
-<!--
-**mateuspachela/mateuspachela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at **BTG Pactual** · Computer Engineering at **UNICAMP** · Building AI agents that real teams use.
 
-Here are some ideas to get you started:
+- 🏦 Backend for a banking onboarding platform (onshore & offshore accounts, ~2,500 openings/day) — Kotlin, Spring Boot, PostgreSQL, Kafka, AWS
+- 🤖 Built an internal MCP server whose AI agent skills are used daily by a 26-developer team to design and ship full app journeys
+- 🏆 AI hackathons: Honorable Mention at the Enter × UNICAMP AI Hackathon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured projects
+
+| Project | What it is | Highlight |
+|---|---|---|
+| [Radar de Provas](https://github.com/felipeCapovilla/HackathonEnter) | Defend-or-settle decision engine for mass litigation (FastAPI + React) | 0.92 AUC over 60k court rulings, auditable by lawyers |
+| [BrandLoop](https://github.com/julio-amaral-oliveira/hack2L) | Multi-agent system running a full marketing funnel (Next.js + TypeScript) | 1,516 real conversations analyzed in <3 min for USD 0.89 |
+
+#### Stack
+Kotlin · TypeScript · Python · Java · SQL · Spring Boot · PostgreSQL · Kafka · AWS (SQS, SNS, S3, Secrets Manager) · Terraform · Docker · Kubernetes · LLM APIs (Anthropic, OpenAI) · MCP
+
+📫 [LinkedIn](https://www.linkedin.com/in/mateus-pachela) · mateuspachela270@gmail.com
